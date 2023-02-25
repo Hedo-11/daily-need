@@ -1,3 +1,3 @@
 # daily-need
-this project will calculate your daily need depending on your weight 
-youtube link: https://youtu.be/nr1AAYH04Lk
+برنامج يقوم بحساب احتياجك اليومي لتثبيت وزنك عن طريق اعطاك السعرات الحرارية والبروتين والدهون والكارب بمجرد ادخال وزنك
+رابط مقطع شرح اليوتيوب: https://youtu.be/nr1AAYH04Lk
